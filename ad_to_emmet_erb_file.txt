@@ -1,0 +1,3 @@
+add in files jeson in emmet setings in setingth  visual studio setingth
+
+ "emmet.includeLanguages": {"erb": "html"}
