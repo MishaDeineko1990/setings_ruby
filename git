@@ -24,7 +24,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 
 
-
+---------------------folow canges-----------------------------
 
 1 dit status               -----    check staus repository
 
@@ -32,11 +32,15 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 3 git dif                  -----    see on changes files
 
+------------------------git commit----------------------------
+
 4 git commit -m ""         -----    make commit
 
 5 git log                  -----    show oll comites
 
 6 git show :id_commit      -----    see on change in this commit  
+
+------------------------git brangh-------------------------------
 
 7 git branch               -----    this script show existing ones branch
 
@@ -47,4 +51,11 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 10 git merge name_branch   -----    merge brench
 
 11 git branch -d name_branch ---    delete branch
+
+-----------------------worckflow---------------------
+
+12 git checkout -b nane_branch -----    this script creats brench and navigate on this brench
+
+
+
 
