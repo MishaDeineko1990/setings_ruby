@@ -38,3 +38,21 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 6 git show :id_commit      -----    see on change in this commit  
 
+7 git branch               -----    this script show existing ones branch
+
+8 git branch name_branch   -----    this script create new branch
+
+9 git checkout nane_branch -----    this script changing branch
+
+
+
+
+
+
+
+
+
+
+
+
+
