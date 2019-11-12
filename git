@@ -36,5 +36,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 5 git log                  -----    show oll comites
 
-6.1 git show :id_commit    -----    see on change in this commit  
+6 git show :id_commit      -----    see on change in this commit  
 
