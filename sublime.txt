@@ -1,0 +1,9 @@
+plagins
+
+ctrl + shift + P  ------ визвать інсталл пекедж
+
+
+emmet
+autoFailName
+html-css-js-prettify   ctr + H  ----- приведення коду  до нормального вигляду
+
