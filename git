@@ -1,2 +1,12 @@
-1 dit status     -----    check staus repository
-2 git add .      -----    add oll files in follov git
+1 dit status               -----    check staus repository
+
+2 git add .                -----    add oll files in follov git
+
+3 git dif                  -----    see on changes files
+
+4 git commit -m ""         -----    make commit
+
+5 git log                  -----    show oll comites
+
+6 git show :id_commit      -----    see on change in this commit  
+
