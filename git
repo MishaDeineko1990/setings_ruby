@@ -36,7 +36,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 5 git log                  -----    show oll comites
 
-6.1 git show :id_commit    -----    see on change in this commit  
+6 git show :id_commit      -----    see on change in this commit  
 
 7 git branch               -----    this script show existing ones branch
 
@@ -44,15 +44,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 9 git checkout nane_branch -----    this script changing branch
 
+10 git merge name_branch   -----    merge brench
 
-
-
-
-
-
-
-
-
-
-
+11 git branch -d name_branch ---    delete branch
 
