@@ -52,10 +52,28 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 11 git branch -d name_branch ---    delete branch
 
------------------------worckflow---------------------
+-----------------------worckflow-----------------------------------
 
 12 git checkout -b nane_branch -----    this script creats brench and navigate on this brench
 
+-------------------------Tag---------------------------------------
 
+13 git tag                  -----    show oll tag
+
+14 git tag name_teg         -----    create new name_teg on commit whea you is now
+
+15 git checkout -b name_teg -----    create branch on basik tag and commit what fixed on tag
+
+16 git push origin --tags   -----    push tags
+
+-----------------------git conflict---------------------------------
+
+when we worck on one lines code you get conflick in merge
+
+https://www.youtube.com/watch?v=sMLazIg9xIY
+
+-----------------------gitfolow-------------------------------------
+
+13 
 
 
