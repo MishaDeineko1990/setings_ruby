@@ -1,11 +1,11 @@
 def maskify(cc)
     str = ""
     ic =cc
-      
-    if ic<5 
+    lng = ic.length
+      if ic<5 
         return ic
       else 
-        lng = ic.length
+        
         (lng-4).times{
           str=str+"#"
         }
