@@ -1,15 +1,23 @@
 def maskify(cc)
     str = ""
-    ic =cc
+    ic = cc
     lng = ic.length
-      if ic<5 
+
+      if lng<5 
+        # puts ic
         return ic
-      else 
-        
+      else         
         (lng-4).times{
           str=str+"#"
         }
-        str = str+cc[-4]
+        str = str+cc[-4,4]
+        puts str
         return str
-      end
+      end    
 end
+
+# maskify("cc")
+maskify("aaaaaa")
+# maskify("QQQQQQ")
+
+  
