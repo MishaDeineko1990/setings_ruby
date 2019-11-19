@@ -13,3 +13,12 @@ s1.each do |x|
 	value = s2[1]
 	puts "product id #{key}  value #{s2[1]}" 
 end
+
+# =========remake string in chart arr=================
+ss1 = orders.split(//)
+
+# puts s1
+
+ss1.each do |x|
+	puts "------#{x[0]}-------"
+end
