@@ -1,0 +1,1 @@
+001 - Reading file and count numbers how many using each word
