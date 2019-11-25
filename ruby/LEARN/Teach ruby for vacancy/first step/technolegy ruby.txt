@@ -1,0 +1,8 @@
+Solid
+Design Paterns
+Sidekiq
+Capistrano
+ElasticSearch
+SOLR
+Ransack
+Docker
